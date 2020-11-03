@@ -1,0 +1,12 @@
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.exe
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.deps.json
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.runtimeconfig.json
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.runtimeconfig.dev.json
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.dll
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\bin\Release\netcoreapp3.1\HomeLibrary.pdb
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.AssemblyInfoInputs.cache
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.AssemblyInfo.cs
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.dll
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.pdb
+C:\Users\thele\source\repos\HomeLibrary\HomeLibrary\obj\Release\netcoreapp3.1\HomeLibrary.genruntimeconfig.cache
